@@ -386,7 +386,7 @@ font header .navbar-default .navbar-nav li a:hover {
 /* Deadline Graph */
 #DeadlineGraph {
   text-align: center;
-  padding: 5px 20px 5px 20px ;
+  padding: 15px 10px 15px 10px ;
 }
 
  #DeadlineGraph table {
@@ -406,7 +406,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: white;
 }
 #DeadlineGraph td {
-  padding: 15px;
+  padding: 8px 0px 8px 0px;
 }
 /*--
 	content Start
