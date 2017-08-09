@@ -400,6 +400,8 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
   padding: 5px;
   color: Black;
+  vertical-align: center;
+  border: 1px solid black;
 }
 
 #DeadlineGraph tr {
@@ -407,6 +409,9 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #DeadlineGraph td {
   padding: 8px 10px 8px 10px;
+  vertical-align: center;
+  border: 1px solid black;
+
 }
 /*--
 	content Start
@@ -1146,6 +1151,7 @@ display: inline;
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
     padding-top: 60px; /* Location of the box */
+    padding-bottom: 60px; /* Location of the box */
     left: 0;
     top: 0;
     width: 100%; /* Full width */
@@ -1165,7 +1171,7 @@ display: inline;
 }
 @media screen and (max-width:768px) {
     .modal-content {
-      padding:5px;
+      padding: 5px;
       width: 90%;
     }
 }
