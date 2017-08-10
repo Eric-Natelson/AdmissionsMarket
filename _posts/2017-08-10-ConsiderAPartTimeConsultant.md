@@ -5,8 +5,6 @@ author: "AdmissionsMarket Staff Member"
 meta: ""
 ---
 
-Consider a Part-Time Consultant
-
 As you can see below, admissions consulting pricing can vary by as much as $1,250 for just a one school package, despite a lack of objective clarity as to why a given consultant is more expensive that the other. There has been a 15.3% increase in pricing from 2014 to 2017, based on one-school packages.
 
 Prior to choosing a consultant, do your due diligence, ask smart questions, and understand how the service you’re ultimately getting differentiates itself from the competition. If you’re having trouble, reach out to AdmissionsMarket. We’re not just the only match-making service in the industry, we provide you unbiased advice at no charge.
