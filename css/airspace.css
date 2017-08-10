@@ -406,12 +406,12 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #DeadlineGraph tr {
   background: white;
+  
 }
 #DeadlineGraph td {
   padding: 8px 10px 8px 10px;
   vertical-align: center;
   border: 1px solid black;
-
 }
 /*--
 	content Start
