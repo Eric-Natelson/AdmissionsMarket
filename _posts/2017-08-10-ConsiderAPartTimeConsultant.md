@@ -11,8 +11,8 @@ As you can see below, admissions consulting pricing can vary by as much as $1,25
 
 Prior to choosing a consultant, do your due diligence, ask smart questions, and understand how the service you’re ultimately getting differentiates itself from the competition. If you’re having trouble, reach out to AdmissionsMarket. We’re not just the only match-making service in the industry, we provide you unbiased advice at no charge.
 
-| Firm || Hourly||1-school package || 2-school-package || 3-school-package || 4-school-package || 5-school-package ||
-|:----||:-----:||:---------------:||:----------------:||:----------------:||:----------------:||:----------------:||
+| Firm || Hourly || 1-school package || 2-school-package || 3-school-package || 4-school-package || 5-school-package ||
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[Amerasia](http://www.amerasiaconsulting.com/boutique-mba-admissions-consulting-college-counseling/)|| $250 || $3,700 || $5,500 || $6,900 || $8,300 || $9,700 ||
 | [Expartus](http://www.expartus.com/)|| 350 (2 hr minimum) || $3,897 || $5,397 || $6,697 || 7,797 || $8,797 ||
 | [Aringo](https://aringo.com/)  || $230 (5 hr minimum) || $3,900 || $5,200 || $6,450  || $7,700 || $8,900   ||
