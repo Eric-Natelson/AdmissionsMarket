@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Considering A Part Time Consultant"
+title: "How much does an admissions consultant cost?"
 author: "AdmissionsMarket Staff Member"
 meta: ""
 ---
@@ -19,7 +19,7 @@ Prior to choosing a consultant, do your due diligence, ask smart questions, and 
 | [Amissionado](http://admissionado.com/) || n/a || $4,295 || $5,495 || $6,695 || $7,495 || $7,945 ||
 | [MBA Prep School](https://mbaprepschool.com/) || $300 (2hr minimum || $4,295 || $6,495 || $7,895 || $8,995 || $9,995 ||
 | [MBA Exchange](http://www.mbaexchange.com/) || n/a || $4,400 || $5,800 || $7,050 || $8,100 || $9,100 ||
-| [mbaMissions](https://www.mbamission.com/)  || n/a || $4,400 || $5,800 || $7,100 || $8,200 || $9,200 ||
+| [mbaMission](https://www.mbamission.com/)  || n/a || $4,400 || $5,800 || $7,100 || $8,200 || $9,200 ||
 | [Personal MBA Coach](https://www.personalmbacoach.com/) || $350 || $4,500 || $5,900 || $7,250 || $8,250 || $9,250 ||
 | [Square One Prep](http://squareoneprep.com/) || $300  || $4,500 || $5,300 || $6,600 || $7,900 || $8,200 ||
 | [Storycrafters Consulting](http://storycraftersconsulting.com/) || n/a || $4,600 || $5,950 || $7,300 || $8,500 || $9,650 ||
