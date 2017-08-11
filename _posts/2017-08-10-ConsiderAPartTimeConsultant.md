@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How much does an admissions consultant cost?"
+title: "How Much Does an Admissions Consultant Cost?"
 author: "AdmissionsMarket Staff Member"
 meta: ""
 ---
