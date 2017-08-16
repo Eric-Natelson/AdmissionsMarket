@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our Top Picks for Free Resources"
+title: "Free Resource Guide"
 author: "AdmissionsMarket Staff Member"
 meta: ""
 ---
