@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Admissions Consulting: Shining a Light on the Industry"
+title: "Our Top Picks for Free Resources"
 author: "AdmissionsMarket Staff Member"
 meta: ""
 ---
