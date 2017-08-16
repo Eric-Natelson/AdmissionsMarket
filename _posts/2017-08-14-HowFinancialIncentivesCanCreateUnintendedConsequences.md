@@ -33,8 +33,8 @@ Still, the reality remains that big-box consultants don’t have a monopoly on t
 Package deals can be good for you, but may decrease a consultants’ hourly wages… 
  
 Getting paid a small, fixed, portion of the overall package price (e.g., $800) means that as the amount 
-of hours spent on your application goes up, the consultant’s “hourly wage” goes down (see chart 
-below). This creates a clear incentive for consultants to try to cap the amount of hours they spend with 
+of hours spent on your application goes up, the consultant’s “hourly wage” goes down. This creates a clear 
+incentive for consultants to try to cap the amount of hours they spend with 
 you by pushing you to be “done” before your application has reached its true potential. 
  
 While boutique consultants are not immune to this incentive, they often work for themselves (or at least 
