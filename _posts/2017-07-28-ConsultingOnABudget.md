@@ -1,8 +1,9 @@
 ---
+title: 5 Ways to Get Admissions Consulting on a Budget
+date: 2017-07-28 00:00:00 Z
 layout: post
-title: "5 Ways to Get Admissions Consulting on a Budget"
-author: "AdmissionsMarket Staff Member"
-meta: ""
+author: AdmissionsMarket Staff Member
+meta: ''
 ---
 
 The MBA admissions process can be expensive. Between GMAT study books, tutors, and application fees the dollar value really starts to add up. If you’re interested in admissions consulting but are hesitant because of the price tag, we’ve put together our best tips for working with admissions consultants on a budget.  

@@ -1,8 +1,9 @@
 ---
+title: Limiting Risk With Admissions Consulting
+date: 2017-07-28 00:00:00 Z
 layout: post
-title: "Limiting Risk With Admissions Consulting"
-author: "AdmissionsMarket Staff Member"
-meta: ""
+author: AdmissionsMarket Staff Member
+meta: ''
 ---
 
 We started AdmissionsMarket to bring transparency to the admissions consulting industry. We were tired of friends getting sold on a guaranteed admission to HBS, only to be left $10,000 poorer and no acceptances to their name. To protect your financial investment, do your due diligence and keep the following principles in mind to ensure you’re walking away with the best possible support.

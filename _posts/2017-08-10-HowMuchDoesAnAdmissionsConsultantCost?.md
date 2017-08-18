@@ -1,8 +1,9 @@
 ---
+title: How Much Does an Admissions Consultant Cost?
+date: 2017-08-10 00:00:00 Z
 layout: post
-title: "How Much Does an Admissions Consultant Cost?"
-author: "AdmissionsMarket Staff Member"
-meta: ""
+author: AdmissionsMarket Staff Member
+meta: ''
 ---
 
 As you can see below, admissions consulting pricing can vary by as much as $1,250 for just a one school package, despite a lack of objective clarity as to why a given consultant is more expensive that the other. There has been a 15.3% increase in pricing from 2014 to 2017, based on one-school packages.

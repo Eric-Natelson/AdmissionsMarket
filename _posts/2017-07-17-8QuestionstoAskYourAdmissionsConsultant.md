@@ -1,8 +1,9 @@
 ---
+title: 8 Questions To Ask Your Admissions Consultant
+date: 2017-07-17 00:00:00 Z
 layout: post
-title: "8 Questions To Ask Your Admissions Consultant"
-author: "AdmissionsMarket Staff Member"
-meta: ""
+author: AdmissionsMarket Staff Member
+meta: ''
 ---
 
 Many admissions consultants will offer you a 30 minute free consultation. Typically, applicants will use this time to get a better understanding of their profile and how a consultant can help. However, if you’re serious about hiring someone this shouldn’t be your priority. Prioritize getting a feel for who they are and what they can offer that’s differentiated from other consultants. There will be plenty of time to talk about making you a better applicant if and when you choose to sign with them.

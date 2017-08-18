@@ -1,8 +1,9 @@
 ---
+title: 'Admissions Consulting: Shining a Light on the Industry'
+date: 2017-06-23 00:00:00 Z
 layout: post
-title: "Admissions Consulting: Shining a Light on the Industry"
-author: "AdmissionsMarket Staff Member"
-meta: ""
+author: AdmissionsMarket Staff Member
+meta: ''
 ---
 
 The process of applying to business school is full of question marks. Are my scores good enough to get into my dream school?

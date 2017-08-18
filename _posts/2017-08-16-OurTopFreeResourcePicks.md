@@ -1,10 +1,10 @@
 ---
+title: Free Resource Guide
+date: 2017-08-16 00:00:00 Z
 layout: post
-title: "Free Resource Guide"
-author: "AdmissionsMarket Staff Member"
-meta: ""
+author: AdmissionsMarket Staff Member
+meta: ''
 ---
-
 
 The process of applying for and completing your MBA is time-consuming and expensive. We’ve rounded up our favorite free resources to help you save money while still getting the support and information you need to ace the admissions process and be well on your way to earning your degree. 
 

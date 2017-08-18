@@ -1,8 +1,9 @@
 ---
+title: How Financial Incentives Can Create Unintended Consequences
+date: 2017-08-14 00:00:00 Z
 layout: post
-title: "How Financial Incentives Can Create Unintended Consequences"
-author: "AdmissionsMarket Staff Member"
-meta: ""
+author: AdmissionsMarket Staff Member
+meta: ''
 ---
 
 Many people feel that big-box consultants are automatically the best option, after all they have 

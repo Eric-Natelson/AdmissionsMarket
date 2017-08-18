@@ -1,9 +1,11 @@
 ---
+title: Does it Make Sense to Work with a Part-Time Consultant?
+date: 2017-08-11 00:00:00 Z
 layout: post
-title: "Does it Make Sense to Work with a Part-Time Consultant?"
-author: "AdmissionsMarket Staff Member"
-meta: ""
+author: AdmissionsMarket Staff Member
+meta: ''
 ---
+
 You may have noticed that there are a lot of recent MBA alums making their way into admissions consulting. Often these MBA’s have full-time jobs and use consulting to make additional income on the side – but, how good are they? Let’s dive into the strengths and weaknesses of young, part-time consultants and what you should be aware of before you sign with them. 
 
 **Part-time consultants have significant industry and school expertise...**

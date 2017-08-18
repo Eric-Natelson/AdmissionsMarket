@@ -1,8 +1,9 @@
 ---
+title: MBAs Weigh in on Admissions Consulting
+date: 2017-07-17 00:00:00 Z
 layout: post
-title: "MBAs Weigh in on Admissions Consulting"
-author: "AdmissionsMarket Staff Member"
-meta: ""
+author: AdmissionsMarket Staff Member
+meta: ''
 ---
 
 AdmissionsMarket surveyed 234 MBA students on their experience with admissions consultants. We wanted to attain objective, unbiased information regarding the prevalence of and opinions toward admissions consulting.  
