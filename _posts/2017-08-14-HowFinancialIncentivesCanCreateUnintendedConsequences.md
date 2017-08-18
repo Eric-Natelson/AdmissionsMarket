@@ -11,7 +11,7 @@ that the admissions consulting business model used by many big-box firms can cre
 misaligned financial incentives that can have strong and often unintended consequences.  
  
  
-Your admissions consultant may only be getting a small percentage of the package price… 
+**Your admissions consultant may only be getting a small percentage of the package price…** 
 
 Most large consulting firms don’t hire full-time consultants, instead, they operate under an independent 
 contractor model in which consultants get paid set rates for specific school packages. These rates are 
@@ -30,7 +30,7 @@ Still, the reality remains that big-box consultants don’t have a monopoly on t
 (near) monopoly on an applicant’s current ability to find it. 
  
  
-Package deals can be good for you, but may decrease a consultants’ hourly wages… 
+**Package deals can be good for you, but may decrease a consultants’ hourly wages…**
  
 Getting paid a small, fixed, portion of the overall package price (e.g., $800) means that as the amount 
 of hours spent on your application goes up, the consultant’s “hourly wage” goes down. This creates a clear 
@@ -47,7 +47,7 @@ that this will ever affect you. If, however, you like to talk through your quest
 (particularly on the phone) and don’t have a firm understanding of the MBA process already, then you 
 might be interested in a boutique consultant more willing to spend additional time with you. 
 
-Financial incentives are an important indicator, but not the end all be-all… 
+**Financial incentives are an important indicator, but not the end all be-all…** 
 
 The above discussion can help you understand incentives, but does not account for a consultant’s love 
 of mentorship, number of clients, experience, and many other variables that can also impact their 
