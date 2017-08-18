@@ -99,7 +99,7 @@ header .navbar-default .navbar-nav li a {
   color: #333333;
   padding: 12px 20px;
   font-size: 14px;
-  font-weight: ;
+  font-weight: bold;
 }
 header .navbar-default .navbar-nav li a:hover {
   color: #000;
