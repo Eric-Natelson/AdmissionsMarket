@@ -1147,11 +1147,6 @@ border: 0;
 display: inline;
 }
 
-#share-buttons img:hover{
-  box-shadow: 10px 10px 5px #888888;
-
-}
-
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
