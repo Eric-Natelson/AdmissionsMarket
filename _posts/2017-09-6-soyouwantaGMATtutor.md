@@ -2,7 +2,7 @@
 title: 'Admissions Consulting: So You Want A GMAT Tutor'
 date: 2017-09-6 00:00:00 Z
 layout: post
-author: AdmissionsMarket Staff Member
+author: Stefan Maisnier
 meta: ''
 ---
 
