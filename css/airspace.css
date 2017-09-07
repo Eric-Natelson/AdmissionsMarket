@@ -215,7 +215,7 @@ header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #blog-intro .block p {
-  color: #grey;
+  color: #purple;
   padding-top: 5px;
   padding-bottom: 5px;
 }
@@ -1144,8 +1144,12 @@ footer .footer-manu ul li a:hover {
 width: 55px;
 padding: 5px;
 border: 0;
-box-shadow: 0;
 display: inline;
+}
+
+#share-buttons img:hover{
+  box-shadow: 10px 10px 5px #888888;
+
 }
 
 /* The Modal (background) */
