@@ -1135,6 +1135,7 @@ footer .footer-manu ul li {
 footer .footer-manu ul li a {
   display: inline-block;
   color: #494949;
+  padding-bottom: 5px;
 }
 footer .footer-manu ul li a:hover {
   color: #000;
