@@ -40,4 +40,4 @@ We’ve all heard that past performance does not guarantee future results, and a
 
 
 
-**About the Author:** *MyGuru’s online GMAT experts have experience helping MBA candidates get into top programs across the United States and worldwide. Stefan Maisnier is the Director of Online Tutoring at MyGuru, and has been tutoring MBA candidates for more than a decade even though his own business school experience is limited to a pair of courses he took at Kellogg School of Management while pursuing his Masters of Science in Journalism at Northwestern University.*
+**About the Author:** *MyGuru’s [online GMAT experts](http://www.myguruedge.com/gmat-prep/online-gmat-tutoring) have experience helping MBA candidates get into top programs across the United States and worldwide. Stefan Maisnier is the Director of Online Tutoring at MyGuru, and has been tutoring MBA candidates for more than a decade even though his own business school experience is limited to a pair of courses he took at Kellogg School of Management while pursuing his Masters of Science in Journalism at Northwestern University.*
