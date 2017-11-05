@@ -6,7 +6,7 @@ author: Kirsten Sardi
 meta: ''
 ---
 
-### **Veritas Prep Admissions Consulting Review*
+### **Veritas Prep Admissions Consulting Review**
  
 
 ### **Overview**
