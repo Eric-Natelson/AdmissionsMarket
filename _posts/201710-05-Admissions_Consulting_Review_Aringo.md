@@ -1,5 +1,5 @@
 ---
-title: 'Admissions Consulting Review: Stacy Blackman'
+title: 'Admissions Consulting Review: Aringo'
 date: 2017-10-05 00:00:00 Z
 layout: post
 author: Kirsten Sardi
@@ -58,7 +58,7 @@ Typically you will work with one of the Senior MBA Consultants as your primary p
 
 • **Quality of Free Consultation:**	5/5
 
-• **Free Resources:**4/5
+• **Free Resources:** 4/5
 
 • **Pricing:** Budget
 
