@@ -5,7 +5,8 @@ layout: post
 author: Kirsten Sardi
 meta: ''
 --- 
-![alt text](
+![alt text](Eric-Natelson.github.io/img/Aringo.png)
+
 ### **Overview**
 ARINGO’s founder launched the company nearly 15 years ago and boasts in his bio that he was admitted to Harvard, Wharton, and INSEAD with a GMAT of 650.  Similarly, ARINGO’s current president promotes the fact that he gained admissions to LBS with a GMAT of only 620.  ARINGO claims to be the firm to work with if you are a student looking to bridge the gap between a low GMAT score, low GPA or little work experience and still gain admission to a top-10 MBA program.  
 
