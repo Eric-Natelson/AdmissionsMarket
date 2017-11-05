@@ -22,15 +22,15 @@ Who you work with is entirely up to you.  The company’s full roster of 24 seni
 
 ### **Our 30-Minute free consultation experience**
 
-•	I was able to select the consultant of my choosing to have an initial conversation and could choose the specific time based on his/her calendar availability
+•	We were able to select the consultant of my choosing to have an initial conversation and could choose the specific time based on his/her calendar availability
 
 •	Received automated same-day response confirming my call 
 
 •	Consultant began conversation letting me know this was my 30 minutes and fully allowed me to steer conversation in direction that was most helpful for me
 
-•	Same-day follow-up by senior consultant with whom I spoke sharing long list of free resources offered by company:
+•	Same-day follow-up by senior consultant with whom we spoke, sharing long list of free resources offered by company:
 
-•	Links to specific blog posts she thought I would find helpful
+•	Links to specific blog posts she thought we would find helpful
 
 •	Link to a comprehensive MBA Admissions Guide written by mbaMission’s founder
 
