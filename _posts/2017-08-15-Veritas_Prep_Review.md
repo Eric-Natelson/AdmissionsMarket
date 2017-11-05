@@ -65,33 +65,33 @@ They’ve also partnered with Myers Briggs to create a unique personality assess
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-*Starring Key
+###**Starring Key**
 
 ** Responsiveness (both in setting up call and following free consultation):**
-	5/5= Responded within 12 hours
-	4/5 = Responded within 24 hours
-	3/5 = Responded within 36 hours
-	2/5 = Responded within 48 hours
-	1/5 = Responded within 72+ hours
+• **5/5**= Responded within 12 hours
+• **4/5** = Responded within 24 hours
+• **3/5** = Responded within 36 hours
+• **2/5** = Responded within 48 hours
+• **1/5** = Responded within 72+ hours
 
 **Quality of Free Consultation:**
-	5/5 = Provided solid information on profile, didn’t force agenda, transparent about firm’s process, no hard sell
-	4/5 = Gave some information on profile, some steering of conversation towards their agenda, somewhat vague on firm’s process, brief sales pitch
-	3/5 = Offered little information on profile, steered conversation, vague on firm’s process, gave pushy sales pitch
-	2/5 = Information on profile felt generic or unhelpful, forced agenda, no transparency on firm’s process, hard sell
-	1/5 = Will not offer a free consultation
+• **5/5** = Provided solid information on profile, didn’t force agenda, transparent about firm’s process, no hard sell
+• **4/5** = Gave some information on profile, some steering of conversation towards their agenda, somewhat vague on firm’s process, brief sales pitch
+• **3/5** = Offered little information on profile, steered conversation, vague on firm’s process, gave pushy sales pitch
+• **2/5** = Information on profile felt generic or unhelpful, forced agenda, no transparency on firm’s process, hard sell
+• **1/5** = Will not offer a free consultation
 
 **Free Resources: **
-	5/5 = Comprehensive list of resources that are easily sortable
-	4/5 = Significant resources not easily sortable (e.g., blog with limited search functions)
-	3/5 = Helpful but limited resources
-	2/5 = Generic resources that are feel “sales-y”
-	1/5 = No resources
+• **5/5** = Comprehensive list of resources that are easily sortable
+• **4/5** = Significant resources not easily sortable (e.g., blog with limited search functions)
+• **3/5** = Helpful but limited resources
+• **2/5** = Generic resources that are feel “sales-y”
+• **1/5** = No resources
 
 **Pricing based on 1-school package:**
-	Budget = Under $4000
-	Standard = $4,000 - $4399
-	Premium = $4400-$4799
-	Ultra Premium = Above $4800
+• **Budget** = Under $4000
+• **Standard** = $4,000 - $4399
+• **Premium** = $4400-$4799
+• **Ultra Premium** = Above $4800
 
 
