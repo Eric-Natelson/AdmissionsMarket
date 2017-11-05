@@ -1,6 +1,6 @@
 ---
 title: 'Admissions Consulting Review: Veritas Prep'
-date: 2017-08-06 00:00:00 Z
+date: 2017-09-15 00:00:00 Z
 layout: post
 author: Kirsten Sardi
 meta: ''
