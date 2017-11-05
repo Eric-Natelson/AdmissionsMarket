@@ -21,6 +21,7 @@ Veritas Prep maintains membership and attends AIGAC’s annual conference along 
 Veritas Prep employs over 100 part-time admissions consultants.  Given the large staff, Veritas Prep asserts that it is able to maintain an average ratio of client to consultant at 4:1. That said, don’t be fooled by the law of averages as given the large number of consultants, it’s highly possible that specific consultants take on far more than four consultants.  
 
 If you purchase one of Veritas Prep’s school packages, you will follow a three-tier consultative and evaluative process, which is meant to mirror how the admissions committee will review your application:
+
 1.	Head Consultant—he/she helps to make sure your application stands out and put your best foot forward
 2.	School Specialist—ensures you are a strong fit for the specific school you are applying
 3.	Ultimately a former admissions director or assistant director will review your application to predict how you will be evaluated
@@ -35,11 +36,11 @@ Veritas Prep takes consultant matching to a whole new level.  You’re matched w
 They’ve also partnered with Myers Briggs to create a unique personality assessment specifically geared for business school applications called the Personalized MBA Game Plan.  The test results are meant to feature your personality strengths along the same spectrum that admissions officers look for in successful applicants.  The test results are also supposed to tease out your weaknesses so you can address this in your application, provide brainstorming ideas from your background to include in your essays, and highlight the type of environment where you thrive so you can ensure you’re applying to schools that are your best fit.  
 
 ### **30-Minute Free Consultation**
-	Received email three days after my initial request for a free consultation setting up a call time
-	Call was with an Academic Advisor who let me take lead on call and was forthright, answering all my admissions related questions
-	Consultation lasted full 30 minutes
-	No hard sell on their services
-	No followup email nor free resources shared after the call
+Received email three days after my initial request for a free consultation setting up a call time
+•	Call was with an Academic Advisor who let me take lead on call and was forthright, answering all my admissions related question 
+• Consultation lasted full 30 minutes
+• No hard sell on their services
+• No followup email nor free resources shared after the call
 
 ### **Points of Pride**
 	100% of their Head Consultants have formal MBA admissions experience
@@ -57,28 +58,28 @@ Pricing:	Premium
 
 *Starring Key
 
-### ** Responsiveness (both in setting up call and following free consultation):**
+# * Responsiveness (both in setting up call and following free consultation):*
 	5/5= Responded within 12 hours
 	4/5 = Responded within 24 hours
 	3/5 = Responded within 36 hours
 	2/5 = Responded within 48 hours
 	1/5 = Responded within 72+ hours
 
-### **Quality of Free Consultation:**
+# *Quality of Free Consultation:*
 	5/5 = Provided solid information on profile, didn’t force agenda, transparent about firm’s process, no hard sell
 	4/5 = Gave some information on profile, some steering of conversation towards their agenda, somewhat vague on firm’s process, brief sales pitch
 	3/5 = Offered little information on profile, steered conversation, vague on firm’s process, gave pushy sales pitch
 	2/5 = Information on profile felt generic or unhelpful, forced agenda, no transparency on firm’s process, hard sell
 	1/5 = Will not offer a free consultation
 
-### **Free Resources: **
+# *Free Resources: *
 	5/5 = Comprehensive list of resources that are easily sortable
 	4/5 = Significant resources not easily sortable (e.g., blog with limited search functions)
 	3/5 = Helpful but limited resources
 	2/5 = Generic resources that are feel “sales-y”
 	1/5 = No resources
 
-### **Pricing based on 1-school package: **
+# *Pricing based on 1-school package: *
 	Budget = Under $4000
 	Standard = $4,000 - $4399
 	Premium = $4400-$4799
