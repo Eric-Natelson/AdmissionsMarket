@@ -35,7 +35,7 @@ Typically you will work with one of the Senior MBA Consultants as your primary p
 
 • Consultation lasted 20 minutes and she allowed me to lead call for what was most helpful for me
 
-• Same-day follow-up email with website links to their [application assistance services] (https://aringo.com/more-about-aringo-services/), [client testimonials] (https://aringo.com/testimonials/ "client testimonials"), [admissions statistics] (https://aringo.com/aringo-mba-admission-statistics/), and [packages & prices] (https://aringo.com/mba-preparation-prices/)
+• Same-day follow-up email with website links to their [application assistance services](https://aringo.com/more-about-aringo-services/), [client testimonials](https://aringo.com/testimonials/), [admissions statistics](https://aringo.com/aringo-mba-admission-statistics/), and [packages & prices](https://aringo.com/mba-preparation-prices/)
 
 • No hard sell on their services
 
