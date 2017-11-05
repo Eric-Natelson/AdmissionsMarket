@@ -65,9 +65,9 @@ They’ve also partnered with Myers Briggs to create a unique personality assess
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-###**Starring Key**
+### **Starring Key**
 
-** Responsiveness (both in setting up call and following free consultation):**
+**Responsiveness (both in setting up call and following free consultation):**
 • **5/5**= Responded within 12 hours
 • **4/5** = Responded within 24 hours
 • **3/5** = Responded within 36 hours
@@ -81,7 +81,7 @@ They’ve also partnered with Myers Briggs to create a unique personality assess
 • **2/5** = Information on profile felt generic or unhelpful, forced agenda, no transparency on firm’s process, hard sell
 • **1/5** = Will not offer a free consultation
 
-**Free Resources: **
+**Free Resources:**
 • **5/5** = Comprehensive list of resources that are easily sortable
 • **4/5** = Significant resources not easily sortable (e.g., blog with limited search functions)
 • **3/5** = Helpful but limited resources
