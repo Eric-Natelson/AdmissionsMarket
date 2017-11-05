@@ -16,7 +16,7 @@ ARINGO relies on a market and research team to keep the rest of the consultants 
 
 The company primarily hires team members with previous admissions consulting or committee experience so they focus trainings on ARINGO-specific processes.  When hiring new consultants they look at previous education, how active they were on campus, writing and editing skills, and creativity.  
 
-ARINGO relies on a market and research team to keep the rest of the consultants informed on industry changes.  The team stays abreast of all school/essay changes by attending MBA events, reading school blogs, following MBA-focused websites like Poets & Quants and BusinessInsider, and staying active in their respective alumni networks.  ARINGO also interviews MBA admissions officers from time to time in order to stay in the loop with industry changes and to prove they are respected in the industry.  For instance, they recently shared a Q&A on their blog with the Director of Admissions at the Kellogg School of Management.  
+ARINGO relies on a market and research team to keep the rest of the consultants informed on industry changes.  The team stays abreast of all school/essay changes by attending MBA events, reading school blogs, following MBA-focused websites like Poets & Quants and BusinessInsider, and staying active in their respective alumni networks.  ARINGO also interviews MBA admissions officers from time to time in order to stay in the loop with industry changes and to prove they are respected in the industry.  For instance, they recently shared a [Q&A on their blog](https://aringo.com/qa-with-kellogg-director-of-admissions/) with the Director of Admissions at the Kellogg School of Management.  
 
 ### **Consulting Process**
 
