@@ -54,10 +54,13 @@ Who you work with is entirely up to you.  The company’s full roster of 24 seni
 
 ### **Rating**
 
-**Responsiveness:**	5/5
-**Quality of Free Consultation:**	5/5
-**Free Resources:**	5/5
-**Pricing:** Premium
+•	**Responsiveness:**	5/5
+
+•	**Quality of Free Consultation:**	5/5
+
+•	**Free Resources:**	5/5
+
+•	**Pricing:** Premium
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
