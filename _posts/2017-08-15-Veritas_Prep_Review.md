@@ -33,7 +33,8 @@ Veritas Prep takes consultant matching to a whole new level.  You’re matched w
 They’ve also partnered with Myers Briggs to create a unique personality assessment specifically geared for business school applications called the Personalized MBA Game Plan.  The test results are meant to feature your personality strengths along the same spectrum that admissions officers look for in successful applicants.  The test results are also supposed to tease out your weaknesses so you can address this in your application, provide brainstorming ideas from your background to include in your essays, and highlight the type of environment where you thrive so you can ensure you’re applying to schools that are your best fit.  
 
 ### **30-Minute Free Consultation**
-Received email three days after my initial request for a free consultation setting up a call time
+•  Received email three days after my initial request for a free consultation setting up a call time 
+
 •	Call was with an Academic Advisor who let me take lead on call and was forthright, answering all my admissions related question 
 
 • Consultation lasted full 30 minutes
@@ -43,10 +44,12 @@ Received email three days after my initial request for a free consultation setti
 • No followup email nor free resources shared after the call
 
 ### **Points of Pride**
-	100% of their Head Consultants have formal MBA admissions experience
-	Claims to have the most former MBA admissions directors and assistant directors of business school programs than any other firm
-	Guarantees School Specialists from more than 30 MBA programs
-	4:1 client-to-consultant ratio even in peak admissions season
+• 100% of their Head Consultants have formal MBA admissions experience
+
+• Claims to have the most former MBA admissions directors and assistant directors of business school programs than any other firm
+
+• Guarantees School Specialists from more than 30 MBA programs
+• 4:1 client-to-consultant average ratio even in peak admissions season
 
 
 ### **Company Grading Based on Free Consultation**
@@ -55,6 +58,9 @@ Responsiveness	1/5
 Quality of Free Consultation:	5/5
 Free Resources:	5/5
 Pricing:	Premium
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 *Starring Key
 
