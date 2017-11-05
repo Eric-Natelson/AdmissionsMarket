@@ -54,10 +54,13 @@ They’ve also partnered with Myers Briggs to create a unique personality assess
 
 ### **Company Grading Based on Free Consultation**
 
-Responsiveness	1/5
-Quality of Free Consultation:	5/5
-Free Resources:	5/5
-Pricing:	Premium
+• Responsiveness	1/5
+
+• Quality of Free Consultation:	5/5
+
+• Free Resources:	5/5
+
+• Pricing:	Premium
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
