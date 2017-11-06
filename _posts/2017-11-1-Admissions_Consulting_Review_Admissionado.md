@@ -1,6 +1,6 @@
 ---
 title: 'Admissions Consulting Review: Admissionado'
-date: 2017-10-21 00:00:00 Z
+date: 2017-11-1 00:00:00 Z
 layout: post
 author: Kirsten Sardi
 meta: ''
