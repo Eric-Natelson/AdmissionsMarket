@@ -32,9 +32,9 @@ You may choose a specific consultant with whom to work or you can let Accepted a
 
 • Same-day follow-up by consultant with links to their two different services: à la carte and comprehensive application package. Offer of an end of month discount if I purchased now. She shared links to two resources on their website:
 
-• Link to downloadable MBA Admissions Guides from the pre-application planning phase to specific guides addressing tips during the application process
+• Link to downloadable [MBA Admissions Guides](https://www.accepted.com/mba-special-reports) from the pre-application planning phase to specific guides addressing tips during the application process
 
-• Link to B-School Zones, which includes aggregated school-specific information for over 30 schools
+• Link to [B-School Zones](https://www.accepted.com/mba/zones/bschools), which includes aggregated school-specific information for over 30 schools
 
 ### **What a former Accepted consultant says about the firm**
 “The firm places a great deal of emphasis on good writing, more so than many of the other admissions consulting firms that I’ve worked with.  At Accepted, teamwork is heavily emphasized with fellow consultants reviewing each other’s work on a monthly basis; consultants regularly use one another for school-specific expertise. “
