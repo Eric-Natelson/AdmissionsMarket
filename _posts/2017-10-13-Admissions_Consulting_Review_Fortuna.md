@@ -51,7 +51,7 @@ You will be paired with an expert coach based on your responses to the launch qu
 
 • **Quality of Free Consultation:**	2/5
 
-• **Free Resources:**14/5
+• **Free Resources:** 4/5
 
 • **Pricing:** Standard
 
