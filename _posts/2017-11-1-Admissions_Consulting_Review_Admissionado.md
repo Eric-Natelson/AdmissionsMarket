@@ -18,7 +18,7 @@ The company has an extensive knowledge bank of internal resources that are maint
 
 ### **Consulting Process**
 
-Admissionado’s 37 consultants are spread all over the country.  They work part-time for the company and maintain their own professional careers, taking on four to six clients a year.  The firm encourages its consultants to have separate careers from consulting, as it believes it gives them a broader perspective since they are directly connected to the industries they serve.  
+Admissionado’s consultants are spread all over the country.  They work part-time for the company and maintain their own professional careers, taking on four to six clients a year.  The firm encourages its consultants to have separate careers from consulting, as it believes it gives them a broader perspective since they are directly connected to the industries they serve.  
 
 Admissionado’s consulting process structure is the following:
 
