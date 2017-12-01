@@ -5,7 +5,6 @@ layout: post
 author: Noodle Pros
 meta: ''
 --- 
-
 *Contributed by: Noodle Pros. [Noodle Pros](www.noodlepros.com/blog) is a cohort of the world’s best tutors. Our tutors have a minimum of 7 years of test prep experience and have helped thousands of students reach their education goals.*
 
 The GMAT is a computer adaptive test that assesses a student’s analytical, writing, quantitative, verbal, and reading skills. The results are then used in determining a student’s admissions decision to a graduate management program, such as an MBA. 
