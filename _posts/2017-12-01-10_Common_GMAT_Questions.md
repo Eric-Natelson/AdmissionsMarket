@@ -29,16 +29,19 @@ Here it is again: “it depends.” The closer you are initially to your goal sc
 
 Some students solely self-study, others use a tutor from start-to-finish, while still others may mix-and-match methods. Some of the advantages and disadvantages of each are shown below to guide your decision.
 
-# **Self Study**
+#### **Self Study**
 **Advantages:** Lowest investment
+
 **Disadvantages:** For some students, can be a lower score “return” per hours studied 
 
-# **Course**
+##### **Course**
 **Advantages:** More economical thatn 1:1 tutoring, can be a helpful concept review if at your pace, resgular schedule can help study routine
+
 **Disadvantage:** Course can be too slow/too fast for you as an individual, can be difficult to correct individual habits in a course environment, can put too much emphasis on concepts over strategy
 
-# **1:1 tutoring**
+#### **1:1 tutoring**
 **Advantages:** Helps you get more effective use of your own study hours; a good tutor moves at your pace to optimize learning; helps motivate you with individual accountability; every hour you spend can be on the content/strategy area you need most
+
 **Disadvantages**: Greatest investment
 
 ### **5)	How can I find a good GMAT tutor?**
