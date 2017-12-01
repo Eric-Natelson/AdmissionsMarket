@@ -52,6 +52,7 @@ A good GMAT tutor will have proven results and extensive experience, but importa
 Generally, you’ll want two things from your GMAT books:
 
 a)	Relevant GMAT practice questions
+
 b)	Explanations of key GMAT concepts
 
 The “Official Guide” is a great resource for point 1. To cover point 2, go for a book by a reputable GMAT preparation company – most will have all the concepts you’ll need.
