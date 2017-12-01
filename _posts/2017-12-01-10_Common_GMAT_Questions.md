@@ -21,23 +21,23 @@ Get ready for a phrase you’ll hear often in the MBA: “it depends”. You’l
 
 There is nothing unimportant in your application, and these sections shouldn’t be taken lightly. However, they should take second priority to the Quant and Verbal sections. Average GMAT scores (the traditional 200-800 Quant and Verbal score) influence a school’s ranking, so they are under more scrutiny by the admissions committee. You don’t need a great IR/AWA score to get into a top school, but a bad score can hurt your profile.
 
-### **3)	How much time should I spend studying for the GMAT?
+### **3)	How much time should I spend studying for the GMAT?**
 
 Here it is again: “it depends.” The closer you are initially to your goal score, the less studying you’ll have ahead of you. Most clients I have worked with study for 3-6 months. Study hours are positively correlated with GMAT score, and the average study hours of 700+ exam takers is 121.
 
-### **4)	How should I study – self-study, in a course, or with a 1:1 tutor?
+### **4)	How should I study – self-study, in a course, or with a 1:1 tutor?**
 
 Some students solely self-study, others use a tutor from start-to-finish, while still others may mix-and-match methods. Some of the advantages and disadvantages of each are shown below to guide your decision.
 
-## **Self Study
+# **Self Study**
 **Advantages:** Lowest investment
 **Disadvantages:** For some students, can be a lower score “return” per hours studied 
 
-## **Course
+# **Course**
 **Advantages:** More economical thatn 1:1 tutoring, can be a helpful concept review if at your pace, resgular schedule can help study routine
 **Disadvantage:** Course can be too slow/too fast for you as an individual, can be difficult to correct individual habits in a course environment, can put too much emphasis on concepts over strategy
 
-## 1:1 tutoring
+# **1:1 tutoring**
 **Advantages:** Helps you get more effective use of your own study hours; a good tutor moves at your pace to optimize learning; helps motivate you with individual accountability; every hour you spend can be on the content/strategy area you need most
 **Disadvantages**: Greatest investment
 
