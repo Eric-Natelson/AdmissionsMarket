@@ -1,6 +1,6 @@
 ---
 title: '10 Common GMAT Questions Answered By a Pro'
-date: 2017-10-21 00:00:00 Z
+date: 2017-12-01 00:00:00 Z
 layout: post
 author: Noodle Pros
 meta: ''
@@ -13,11 +13,11 @@ The GMAT is a computer adaptive test that assesses a student’s analytical, wri
 Noodle Pro [Craig Cartier](https://www.noodlepros.com/tutor/profile/ZDlmOGEwMmE3OTdhZTl) is a GMAT expert. He has been professionally tutoring for over 15 years. Craig has helped clients earn top scores and gain admission to top 20 MBA programs. Craig himself holds a 99th percentile score on the GMAT. Based in London, Craig is particularly proud of his success in getting students into top European schools like London Business School, INSEAD, IESE, and ESADE. 
 Here, Craig answers 20 of the most commonly asked GMAT questions.
 
-### **1) What is a good GMAT score?
+### **1) What is a good GMAT score?**
 
 Get ready for a phrase you’ll hear often in the MBA: “it depends”. You’ll want a score that’s near or ideally above the average for the schools you’re looking at, and top 10 programs all have average GMAT scores above 700. However, your score will be evaluated alongside your resume and admissions essays. The stronger the latter two, the more GMAT leeway you’ll have: remember that a lower-than-average score won’t disqualify you.
 
-### **2)	But what about the IR and AWA sections? How important are those?
+### **2)	But what about the IR and AWA sections? How important are those?**
 
 There is nothing unimportant in your application, and these sections shouldn’t be taken lightly. However, they should take second priority to the Quant and Verbal sections. Average GMAT scores (the traditional 200-800 Quant and Verbal score) influence a school’s ranking, so they are under more scrutiny by the admissions committee. You don’t need a great IR/AWA score to get into a top school, but a bad score can hurt your profile.
 
