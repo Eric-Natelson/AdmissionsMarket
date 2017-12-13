@@ -74,7 +74,7 @@ Please don’t torture yourself and take a practice exam every day for the next 
 It depends (if that answer makes you want to throw something at your screen 10 questions into this blog, try holding it together when a classmate says these words a year into your MBA!) Refreshingly, the average score improvement from a re-taken exam is 30 points, but it’s important to ask yourself a couple of questions: Will you realistically improve? What will you do differently in your studying to reach that higher score?  If you haven’t used a tutor, sometimes that can help unlock your full potential.
 
 
-Read more on [Noodle Pros blog](www.noodlepros.com/blog). 
+Read more on [Noodle Pros blog](https://www.noodlepros.com/blog/2017/11/27/gmat-questions-answered/). 
 
 
 
